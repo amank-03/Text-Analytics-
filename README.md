@@ -5,3 +5,7 @@
 - Finding frequency and the rank of tokens
 - Sentiment analysis using Stanza library and Naive Bayes
 - Identifying aspects and sentiments using POS rules
+
+
+## Language
+- Python
